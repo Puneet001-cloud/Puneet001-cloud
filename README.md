@@ -1,72 +1,105 @@
 # 👋 Hi, I'm Puneet
 
-🚀 **DevOps Engineer | Automation Enthusiast | Cloud Practitioner**
+💻 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
-Welcome to my GitHub profile! I am a DevOps Engineer with **5+ years of experience** in designing, automating, and managing scalable infrastructure and CI/CD pipelines. I enjoy building reliable systems, improving deployment workflows, and implementing infrastructure as code.
-
----
-
-## 👨‍💻 About Me
-
-- 💼 **Role:** DevOps Engineer  
-- 🧠 **Experience:** 5+ Years in DevOps and Cloud Engineering  
-- 🔧 Passionate about automation, cloud infrastructure, and continuous delivery  
-- 📦 Experienced in building scalable and reliable DevOps pipelines  
+I am a **DevOps Engineer with 5+ years of experience** in building scalable infrastructure, implementing CI/CD pipelines, and automating cloud environments. I enjoy improving deployment reliability and building efficient DevOps workflows.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🚀 About Me
 
-### ☁️ Cloud Platforms
-- AWS
-- Azure
-- Google Cloud Platform (GCP)
+- 🔭 Currently working as a **DevOps Engineer**
+- ☁️ Experienced in **Cloud Infrastructure & Automation**
+- ⚙️ Passionate about **CI/CD, Containers, Kubernetes, and Infrastructure as Code**
+- 📈 5+ years of experience in DevOps and Cloud Engineering
 
-### ⚙️ DevOps & Automation
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="40"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=bash" height="40"/>
+<img src="https://skillicons.dev/icons?i=prometheus" height="40"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="40"/>
+
+</p>
+
+---
+
+# 📦 Real-Time DevOps Projects
+
+## 🚀 CI/CD Pipeline for Microservices Deployment
+
+**Description**
+
+Implemented a complete **CI/CD pipeline** to automate build, test, and deployment of microservices to Kubernetes.
+
+**Tech Stack**
+
+- Jenkins
 - Docker
 - Kubernetes
-- Jenkins
-- GitHub Actions
-- GitLab CI/CD
-
-### 🏗️ Infrastructure as Code
-- Terraform
-- Ansible
-- CloudFormation
-
-### 🔍 Monitoring & Logging
-- Prometheus
-- Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-
-### 💻 Scripting & Programming
-- Bash
-- Python
-
-### 🗂️ Version Control
-- Git
+- Helm
 - GitHub
-- GitLab
-- Bitbucket
+- AWS EKS
+
+**Key Features**
+
+- Automated Docker image build and push
+- Kubernetes deployment using Helm
+- Automated testing pipeline
+- Zero-downtime rolling deployments
 
 ---
 
-## 📈 What I Work On
+## ☁️ Infrastructure Automation using Terraform
 
-- Building **CI/CD pipelines**
-- **Containerization and orchestration**
-- **Infrastructure automation**
-- **Cloud architecture**
-- **Monitoring and observability**
+**Description**
+
+Designed a fully automated **cloud infrastructure provisioning system** using Terraform to deploy scalable production environments.
+
+**Tech Stack**
+
+- Terraform
+- AWS
+- Ansible
+- EC2
+- VPC
+- IAM
+
+**Key Features**
+
+- Infrastructure as Code
+- Automated environment provisioning
+- Secure network architecture
+- Multi-environment deployment (Dev / QA / Prod)
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 💼 LinkedIn
-- 🐦 Twitter
-- 🌐 Personal Website
+![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
 ---
 
-⭐ *Always learning, always automating.*
+# 📫 Connect With Me
+
+💼 LinkedIn  
+📧 Email  
+🌐 Portfolio
+
+---
+
+⭐ *Automation is not a tool, it's a mindset.*
